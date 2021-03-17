@@ -1,19 +1,20 @@
 # about-me
-Hi my name is Dilnura
 
-My school email is: dilnurat6009@hstat.org
+* ### Hi my name is *Dilnura*
 
-I currently attend the school High School of Telecommunications Arts and Technology
+* ### My school email is: _dilnurat6009@hstat.org_
 
-My schedule looks like:
+* ### I currently attend the school [*High School of Telecommunications Arts and Technology*](https://www.hstat.org)
+## My schedule looks like:  
 
-Global History
-Spanish
-Algebra
-Big History Project
-English 
-SEP
-Chemistry
-PE
+1. Global History     
+2. Spanish
+3. Algebra
+4. Big History Project
+5. English 
+6. SEP
+7. Chemistry
+8. PE
 
-I very much dislike remote learning as well. 
+I also want to add on that I very much dislike remote learning as well.
+
